@@ -51,22 +51,15 @@ _(Project Proposal)_
 
 ## **Abstract**
 
-This project aims to design and develop the **Smart Mirror** to enhance the eyewear shopping experience in optical shops.  
-In traditional frame selection, customers mostly depend on the shop owner’s decision, which causes dissatisfaction and indecision.  
-This system utilizes a **two-way mirror** that appears as a regular mirror. It includes a camera and a dedicated processing unit.  
-As the customer walks in front of the mirror, the camera captures the picture and, using the processing unit, analyzes facial features and face shape.  
-By applying **AI-based algorithms**, it matches the best eyeglass frame according to the customer’s face shape and displays the result on the smart mirror.
+This project aims to design and develop the **Smart Mirror** to enhance the eyewear shopping experience in optical shops. In traditional frame selection, customers mostly depend on the shop owner’s decision, which causes dissatisfaction and indecision. This system utilizes a **two-way mirror** that appears as a regular mirror. It includes a camera and a dedicated processing unit. As the customer walks in front of the mirror, the camera captures the picture and, using the processing unit, analyzes facial features and face shape.By applying **AI-based algorithms**, it matches the best eyeglass frame according to the customer’s face shape and displays the result on the smart mirror.
 
 ---
 
 ## **Background and Justification**
 
-Over the past decade, there has been **no major shift** in how customers select frames—it remains manual, challenging, and dependent on shop owners.  
-The final decision often relies on the opinions of sales staff or friends, which is unreliable. Diagnosing one’s own face shape accurately is difficult for the average consumer.
+Over the past decade, there has been **no major shift** in how customers select frames—it remains manual, challenging, and dependent on shop owners. The final decision often relies on the opinions of sales staff or friends, which is unreliable. Diagnosing one’s own face shape accurately is difficult for the average consumer.
 
-In the world of fashion, **face shape** plays a crucial role in determining which eyeglass frame suits an individual best.  
-Recent advancements in **computer vision and artificial intelligence** have made it affordable and possible to get **real-time frame recommendations**.  
-This innovation will boost customer experience and introduce a new direction in the world of fashion, personalization, and retail technology.
+In the world of fashion, **face shape** plays a crucial role in determining which eyeglass frame suits an individual best. Recent advancements in **computer vision and artificial intelligence** have made it affordable and possible to get **real-time frame recommendations**. This innovation will boost customer experience and introduce a new direction in the world of fashion, personalization, and retail technology.
 
 ---
 
@@ -90,15 +83,15 @@ The methodology encompasses **hardware setup**, **software development**, and **
    - Generate **frame recommendations** based on face shape
    - Display the output on the LED mirror
 
-3. **System Integration:**  
+3. **System Integration:**
+
    Combine the hardware and software into a **fully functional prototype** demonstrating real-time frame recommendations.
 
 ---
 
 ## **Project Scope**
 
-The scope of this project is to **develop and design a prototype smart mirror** that captures an image as input and, after processing, assists the customer in choosing the best eyeglass frame according to their **face shape and features**.  
-The focus is on building a **functional prototype** that demonstrates the **core concept** effectively.
+The scope of this project is to **develop and design a prototype smart mirror** that captures an image as input and, after processing, assists the customer in choosing the best eyeglass frame according to their **face shape and features**. The focus is on building a **functional prototype** that demonstrates the **core concept** effectively.
 
 ---
 
